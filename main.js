@@ -1,7 +1,7 @@
 class Llibre {
-	constructor(titol, autor, disponible) {
-		this.titol = titol; 
-    this.autor = autor; 
+  constructor(titol, autor, disponible) {
+	this.titol = titol; 
+   	this.autor = autor; 
     this.disponible = disponible; 
 	} 
   
